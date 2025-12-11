@@ -1,4 +1,5 @@
 # network-recon-lab
+Author: Juan Medina
 
 ## Description
 This project demonstrates basic and intermediate network reconnaissance techniques in a controlled and legal lab environment.
